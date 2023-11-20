@@ -1,0 +1,37 @@
+:root {
+    --mainColor: #1090CB;
+    --borderColor: #FFFFFF;
+
+    --textColor: #252525;
+
+    --green100: #08D3BB;
+    --green200: #5FC300;
+
+    --purple: #4628A4;
+    --blue100: #DAE6FF;
+    --purple200: #9208D3;
+
+    --blue150: #1090CB1A;
+    --blue200: #00329B;
+    --cream100: #EFEAFF;
+
+
+    --cream200: #FFE5DA;
+    --orange200: #BB3800;
+
+
+    --gray100: #868686;
+    --grayBorder: #C7C7C7;
+
+
+    --bcColor: #E8F4FA;
+
+    --buttonColor: #000000;
+    --loremcolor: #515151;
+
+    --footerborder: #D2D2D2;
+
+    --footercopyri: #686868;
+    --black: black;
+
+}
